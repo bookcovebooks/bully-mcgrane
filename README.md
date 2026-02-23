@@ -27,7 +27,6 @@ standoff", "dance hall saloon frontier", "gritty canyon town setting",
 
 ## About This Repository
 
-This repository contains source files to generate this book in several
-output formats for the [bookcove](https://bookcove.net) collection.
-The generator used is ppt2h.py (text to HTML).
+This repository contains the source file to generate this book in text and HTML using software tools available at the hosting site. This book is part of the [BookCove](https://bookcove.net) collection.
+
 
